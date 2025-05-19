@@ -3,7 +3,18 @@
 This project utilizes several Python libraries for text analysis tasks. This README provides instructions on how to set up the necessary environment and run the code.
 
 ## Prerequisites
+This project utilizes several Python libraries for text analysis tasks. This README provides instructions on how to set up the necessary environment, access the code from the Git repository, and run the project.
 
+* **Git:** Ensure you have Git installed on your system. You can check if Git is installed by running `git --version` in your terminal. If not, you can download and install it from [https://git-scm.com/downloads](https://git-scm.com/downloads).
+* **Python 3.7 or higher:** Ensure you have Python 3.7 or a later version installed on your system. You can check your Python version by running `python --version` or `python3 --version` in your terminal.
+* **pip:** Python's package installer, pip, should be installed by default with your Python installation. You can check if pip is installed by running `pip --version` in your terminal.
+
+## Accessing the Code from the Git Repository
+
+You can access the project code by cloning the Git repository. Open your terminal or command prompt and navigate to the directory where you want to store the project, then run the following command:
+
+```bash
+git clone [https://github.com/Priyanka1423/Assignment_14.git](https://github.com/Priyanka1423/Assignment_14.git)
 * **Python 3.7 or higher:** Ensure you have Python 3.7 or a later version installed on your system. You can check your Python version by running `python --version` or `python3 --version` in your terminal.
 * **pip:** Python's package installer, pip, should be installed by default with your Python installation. You can check if pip is installed by running `pip --version` in your terminal.
 
@@ -16,8 +27,9 @@ Follow these steps to create a virtual environment and install the required depe
     It's highly recommended to create a virtual environment to isolate the project dependencies. This prevents conflicts with other Python projects on your system.
 
     Open your terminal or command prompt and navigate to the project directory (the directory containing this README file and your `requirements.txt` file). Then, run the following command:
-
+    
     ```bash
+    cd Assignment_14
     python -m venv venv
     ```
 
