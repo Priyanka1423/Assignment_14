@@ -5,7 +5,7 @@ This project utilizes several Python libraries for text analysis tasks. This REA
 ## Prerequisites
 This project utilizes several Python libraries for text analysis tasks. This README provides instructions on how to set up the necessary environment, access the code from the Git repository, and run the project.
 
-* **Git:** Ensure you have Git installed on your system. You can check if Git is installed by running `git --version` in your terminal. If not, you can download and install it from [https://git-scm.com/downloads](https://git-scm.com/downloads).
+* **Git:** Ensure you have Git installed on your system. You can check if Git is installed by running `git --version` in your terminal. 
 * **Python 3.7 or higher:** Ensure you have Python 3.7 or a later version installed on your system. You can check your Python version by running `python --version` or `python3 --version` in your terminal.
 * **pip:** Python's package installer, pip, should be installed by default with your Python installation. You can check if pip is installed by running `pip --version` in your terminal.
 
