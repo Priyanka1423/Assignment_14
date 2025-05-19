@@ -1,0 +1,19 @@
+nltk
+spacy
+gensim
+string
+re
+scikit-learn
+transformers
+langchain
+duckduckgo-search
+beautifulsoup4
+pandas
+seaborn
+matplotlib
+networkx
+torch  # Required for transformers
+tiktoken  # Optional but helpful with LLM-based pipelines
+langchain-community
+wikipedia-api
+langchain-google-genai
