@@ -14,7 +14,7 @@ This project utilizes several Python libraries for text analysis tasks. This REA
 You can access the project code by cloning the Git repository. Open your terminal or command prompt and navigate to the directory where you want to store the project, then run the following command:
 
 ```bash
-git clone [https://github.com/Priyanka1423/Assignment_14.git](https://github.com/Priyanka1423/Assignment_14.git)
+* **Git:** git clone [https://github.com/Priyanka1423/Assignment_14.git](https://github.com/Priyanka1423/Assignment_14.git)
 * **Python 3.7 or higher:** Ensure you have Python 3.7 or a later version installed on your system. You can check your Python version by running `python --version` or `python3 --version` in your terminal.
 * **pip:** Python's package installer, pip, should be installed by default with your Python installation. You can check if pip is installed by running `pip --version` in your terminal.
 
